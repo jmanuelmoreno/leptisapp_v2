@@ -1,0 +1,33 @@
+{
+  "temporada": {
+    "id": "2019",
+    "titulo": "Actividades de 2018 - 19"
+  },
+  "eventos": [
+    {
+      "fecha_inicio": "2021-02-28",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "DÍA DE ANDALUCÍA",
+      "subtitulo": "PARTICIPACIÓN MARCHA EN BICICLETA ORGANIZADA POR AYTO",
+      "descripcion": "",
+      "direccion": "",
+      "url_portada": "assets/images/events/no_foto.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2021-06-19",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "EXCURSIÓN FINAL DE TEMPORADA",
+      "subtitulo": "EXCURSIÓN A SANLÚCAR DE BARRAMEDA",
+      "descripcion": "",
+      "direccion": "",
+      "url_portada": "assets/images/events/no_foto.jpg",
+      "fotos": []
+    }
+  ]
+}
+

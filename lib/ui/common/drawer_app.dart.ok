@@ -1,0 +1,179 @@
+import 'package:flutter/gestures.dart';
+import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+
+class DrawerApp extends StatefulWidget {
+  static const String routeName = '/material/drawer';
+
+  @override
+  _DrawerAppState createState() => new _DrawerAppState();
+}
+
+class _DrawerAppState extends State<DrawerApp> with TickerProviderStateMixin {
+  static const String facebookUrl = 'https://www.facebook.com/leptisutrera/';
+
+  static const List<Map<String, dynamic>> _drawerContents =
+      <Map<String, dynamic>>[
+    {
+      'title': 'Inicio',
+      'subtitle': 'Calendario de salidas',
+      'icon': FontAwesomeIcons.bookOpen,
+      'routename': '/'
+    },
+    {
+      'title': 'Regularidad',
+      'subtitle': 'Puntos por asistencia',
+      'icon': Icons.score,
+      'routename': '/regularidad'
+    }
+  ];
+
+  AnimationController _controller;
+  Animation<double> _drawerContentsOpacity;
+  Animation<Offset> _drawerDetailsPosition;
+  bool _showDrawerContents = true;
+
+  @override
+  void initState() {
+    super.initState();
+    _controller = new AnimationController(
+      vsync: this,
+      duration: const Duration(milliseconds: 200),
+    );
+    _drawerContentsOpacity = new CurvedAnimation(
+      parent: new ReverseAnimation(_controller),
+      curve: Curves.fastOutSlowIn,
+    );
+    _drawerDetailsPosition = new Tween<Offset>(
+      begin: const Offset(0.0, -1.0),
+      end: Offset.zero,
+    ).animate(new CurvedAnimation(
+      parent: _controller,
+      curve: Curves.fastOutSlowIn,
+    ));
+  }
+
+  @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
+
+  void _openUrl(String url) async {
+    // Close the about dialog.
+    Navigator.pop(context);
+
+    if (await canLaunch(url)) {
+      await launch(url);
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+
+
+
+
+
+    return new Drawer(
+      child: new Column(
+        children: <Widget>[
+          UserAccountsDrawerHeader(
+            accountName: const Text('Juan Manuel Moreno'),
+            accountEmail: const Text('jmanuel.moreno@gmail.com'),
+            currentAccountPicture: const CircleAvatar(
+              /*backgroundImage: const AssetImage(
+                _kAsset0,
+                package: _kGalleryAssetsPackage,
+              ),*/
+              child: Icon(Icons.person_outline),
+            ),
+            margin: EdgeInsets.zero,
+            onDetailsPressed: () {
+              _showDrawerContents = !_showDrawerContents;
+              if (_showDrawerContents)
+                _controller.reverse();
+              else
+                _controller.forward();
+            },
+          ),
+          new MediaQuery.removePadding(
+            context: context,
+            // DrawerHeader consumes top MediaQuery padding.
+            removeTop: true,
+            child: new Expanded(
+              child: new ListView(
+                padding: const EdgeInsets.only(top: 8.0),
+                children: <Widget>[
+                  new Stack(
+                    children: <Widget>[
+                      // The initial contents of the drawer.
+                      new FadeTransition(
+                        opacity: _drawerContentsOpacity,
+                        child: new Column(
+                          mainAxisSize: MainAxisSize.min,
+                          crossAxisAlignment: CrossAxisAlignment.stretch,
+                          children: new List.from(_drawerContents.map((Map<String, dynamic> content) {
+                            return ListTile(
+                              leading: Icon(content['icon']),
+                              title: Text(content['title']),
+                              subtitle: Text(content['subtitle']),
+                              onTap: () => Navigator.pop(context),
+                            );
+                          }).toList())..add(const Divider())..addAll(<Widget>[
+                            const ListTile(
+                              title: const Text('Soporte'),
+                            ),
+                            ListTile(
+                              leading: const Icon(Icons.info_outline),
+                              title: const Text('Sobre nosotros'),
+                              onTap: () => Navigator.pop(context),
+                            ),
+                            ListTile(
+                              leading: const Icon(FontAwesomeIcons.facebookSquare),
+                              title: const Text('Siguenos en Facebook'),
+                              onTap: () => _openUrl(facebookUrl),
+                            )
+                          ]),
+                        ),
+                      ),
+                      // The drawer's "details" view.
+                      new SlideTransition(
+                        position: _drawerDetailsPosition,
+                        child: new FadeTransition(
+                          opacity: new ReverseAnimation(_drawerContentsOpacity),
+                          child: new Column(
+                            mainAxisSize: MainAxisSize.min,
+                            crossAxisAlignment: CrossAxisAlignment.stretch,
+                            children: <Widget>[
+                              /*new ListTile(
+                                leading: const Icon(Icons.add),
+                                title: const Text('Add account'),
+                                onTap: _showNotImplementedMessage,
+                              ),
+                              new ListTile(
+                                leading: const Icon(Icons.settings),
+                                title: const Text('Manage accounts'),
+                                onTap: _showNotImplementedMessage,
+                              ),*/
+                              new ListTile(
+                                leading: const Icon(Icons.exit_to_app),
+                                title: const Text('Cerrar sesión'),
+                                onTap: () {},
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}

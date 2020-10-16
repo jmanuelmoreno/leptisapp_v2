@@ -1,0 +1,730 @@
+{
+  "temporada": {
+    "id": "2019",
+    "titulo": "Temporada 2018 - 2019"
+  },
+  "calendario": [
+    {
+      "id": 0,
+      "fecha": "2018-09-16",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/trajano.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 0.0,
+      "ruta": {
+        "nombre": "TRAJANO",
+        "descripcion": "",
+        "kms": 60.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "assets/preloaded_data/Salida1-Trajano.gpx",
+        "recorrido": "Utrera, Cañada Real de Venta Larga y Torres Alocaz (Puerta Verde), Cortijo La Higuera, Cordel del Prado del Gallego, Cortijo Jaime Pérez, Camino a Trajano, _**Trajano (AVITUALLAMIENTO)**_, Camino a El Trobal, Camino a Maribañez, Canal del Bajo Guadalquivir, Camino Servicio Vía del AVE, Cañada Real Venta Larga y Torres Alocaz, Utrera."
+      }
+    },
+    {
+      "id": 1,
+      "fecha": "2018-09-23",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/zarracatin.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "EL PALMAR DE TROYA",
+        "descripcion": "",
+        "kms": 60.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "assets/preloaded_data/Salida2-ElPalmarDeTroya.gpx",
+        "recorrido": "Utrera, Paseo de Consolación, Camino de la Juncosa, Cordel del Prado del Gallego, Camino La Tenienta, Los Molares, Cordel del Pico y Mesa del Agua, Camino Los Carrascales, Cortijo los Carrascales, Cordel del Prado del Gallego, Abrevadero La Ventosilla, Camino Parcelas de Troya, _**El Palmar de Troya (AVITUALLAMIENTO)**_, Cortijo Zarracatín, Cortijo El Marmol, Ctra. de El Pantano a la Encinilla, Camino Paralelo Canal, Parcelas de Troya, Abrevadero La Ventosilla, Rancho las Latas, Cortijo El Pinganillo, Cañada Real Venta Larga y Torres Alocaz Puerta Verde, Utrera."
+      }
+    },
+    {
+      "id": 2,
+      "fecha": "2018-09-30",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/sevilla-alcala-de-guadaira.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "ALCALÁ DE GUADAÍRA",
+        "descripcion": "",
+        "kms": 60.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "assets/preloaded_data/Salida3-AlcaláDeGuadaira.gpx",
+        "recorrido": "Utrera, La Fontanilla, Pinar de Doña, Ctra. Don Rodrigo, Vereda del Prado del Gallego, Camino Cuesta Carretilla, Camino de Maestre, _**Alcalá de Guadaíra (AVITUALLAMIENTO)**_, Castillo de Marchenilla, Descansadero de Trujillo, Camino de La Armada, Cortijo La Armada, Vereda del Prado del Gallego, Camino La Herradera, Utrera."
+      }
+    },
+    {
+      "id": 3,
+      "fecha": "2018-10-07",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/arahal.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "ARAHAL",
+        "descripcion": "",
+        "kms": 65.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "assets/preloaded_data/Salida4-Arahal.gpx",
+        "recorrido": "Utrera, Camino del Recuero, La Herradera, Cañada Real de Utrera a Los Palacios (ctra. Amarilla), Vía de servicio Autovía Sevilla/Málaga, Vereda del Tinto, Cortijo de Menjillán, Cañada Real Sevilla/Arahal, _**Arahal (AVITUALLAMIENTO)**_, Vía Verde de Arahal (por el puente de hierro), Camino Cortijo El Martinazo, Camino de El Coronil a Arahal, cruce con Vereda de Morón a Sevilla, Vereda de los Puertos (cruce ctra. Alcalá-Morón), Caserío San Francisco, Cortijo San Julian, Camino de Arahal, Los Molares, Camino de Utrera, Utrera."
+      }
+    },
+    {
+      "id": 4,
+      "fecha": "2018-10-14",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/carriles_bici_sevilla.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "CARRILES BICI SEVILLA",
+        "descripcion": "",
+        "kms": 72.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Desplazamiento a Sevilla en tren de cercanías (hasta Santa Justa), Recorrido por Carriles Bici del Centro de Sevilla, _**Camas (AVITUALLAMIENTO)**_, Vuelta a Sevilla por zona del Río Guadalquivir, Vuelta en tren o en bici por Vía de Servicio"
+      }
+    },
+    {
+      "id": 5,
+      "fecha": "2018-10-21",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/torre_bollo.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "TORRE DEL BOLLO",
+        "descripcion": "",
+        "kms": 72.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Cañada Real de Venta Larga y Torres Alocaz, Cortijo Pinganillo, Rancho Las Latas, Abrevadero La Ventosilla, Cañada Real de Ubrique a Sevilla, Poblado La Cañada, Torre del Águila, Cañada Real de Utrera a Villamartín (La Negra), _**La Encinilla (AVITUALLAMIENTO)**_, Cañada Real de Montellano a Morón (Ctra.), Cortijo de El Bollo, Torre de El Bollo, Cortijo La Reyertilla, Castillo de Las Aguzaderas, El Coronil, Cortijo de Guardainfantilla, Cortijo de Pardales, Camino de El Coronil, Los Molares, Cañada Real de Utrera a Morón, Cañada Real del Pajarero, Utrera."
+      }
+    },
+    {
+      "id": 6,
+      "fecha": "2018-10-28",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/bucare.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "BUCARÉ",
+        "descripcion": "",
+        "kms": 72.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Paseo de Consolación, Camino del Recuero, La Herradera, Cordel del Prado del GalIego, Cortijo La Armada, Castillo de Marchenilla, _**Alcalá de Guadaira (AVITUALLAMIENTO)**_, Vereda Benagila, Cortijo de Trujillo, Vereda de Benagila, Vereda de Pastoril, Vereda del Martinazo, Vereda de los Puertos, Cruce Alcalá/Morón, Caserio San Francisco, Cañada Rea del Pajarero, Utrera."
+      }
+    },
+    {
+      "id": 7,
+      "fecha": "2018-11-04",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/torre_alocaz.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "TORRES ALOCAZ",
+        "descripcion": "",
+        "kms": 68.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Cañada Real de Venta Larga y Torres Alocaz a Sevilla, Cortijo Pinganillo, Cortijo La Higuera, Cordel del Prado del Gallgo, Rancho Las Latas, Cortijo La Ventosilla, Canteras de Troya, El Palmar de Troya, Cañada Real de Utrera a Villamartín, Cordel de Zarracatín, Rancho Villalba, Camino de los Matorrales, Arroyo Los Alguaces, Camino Repetidor, Ctra- N-IV, Torres Alocaz, Camino Alguaciles Bajos, Ctra. a Montellano, Camino trasera Venta Diego, _**Venta Diego (AVITUALLAMIENTO)**_, La Negra, Pantano Torre del Águila, Poblado La Cañada, Abrevadero La Ventosilla, Cortijo Los Carrascales, Camino Los Palos, Utrera."
+      }
+    },
+    {
+      "id": 8,
+      "fecha": "2018-11-11",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/arroyo_dulce.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "ARROYO DULCE",
+        "descripcion": "",
+        "kms": 70.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Cañada Real del Pajarero, Cañada Real de Utrera a Morón, Los Molares, Camino de El Coronil a Los Molares- El Coronil, Camino Las Glorias, Cañada Real Sevilla a Villamartín, Cortijo Puerto Hatabo, _**Venta El Salao (AVITUALLAMIENTO)**_, Cordel de los Puertos a Montellano, Arroyo Dulce, Camino Alcabalas,Camino de El Coronil a Los Molares, Cortijo de Guardainfantilla, Cortijo de Pardales, Los Molares, Cañada Real de Utrera a Morón, Cañada Real del Pajarero, Utrera"
+      }
+    },
+    {
+      "id": 9,
+      "fecha": "2018-11-18",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/isla_minima.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "ISLA MÍNIMA",
+        "descripcion": "",
+        "kms": 82.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Camino paralelo Via del AVE, Las Alcantarillas, Trajano, _**El Trobal (AVITUALLAMIENTO)**_, Llanos de San Juan, Ctra. del Práctico, Camino paralelo Madre Vieja Brazo del Este del Guadalquivir, Caño de la Vera, Los Palacios, Ctra. Los Palacios/Utrera, Canal del Bajo Guadalquivir, Camino Parpagón, Bda. La Fontanilla, Utrera"
+      }
+    },
+    {
+      "id": 10,
+      "fecha": "2018-11-25",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica1.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "ARROYO HONDO",
+        "descripcion": "",
+        "kms": 76.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Camino Los Molares, Camino Los Molares a El Coronil, _**El Coronil (AVITUALLAMIENTO)**_, Ctra. Las Alcabalas, Camino Las Arenas, Las Lumbreras, Sendero Arroyo Hondo, Ctra- SE-438 (Alcabalas Altas), Camino Las Escaleras, Las Alcabalas, El Coronil, Camino El Coronil a Los Molares, Los Molares, Utrera"
+      }
+    },
+    {
+      "id": 11,
+      "fecha": "2018-12-02",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/gomez_cardeña.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "CORTIJO GÓMEZ CARDEÑA",
+        "descripcion": "",
+        "kms": 63.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Camino Los Palos, Rancho El Cordobés, Poblado La Cañada, Camino paralelo canal de El Pantano, Camino Parcelas de Troya, _**El Palmar de Troya (AVITUALLAMIENTO)**_, Cañada Real de Utrera a Villamartín, Cortijo Zarracatín, Cordel de Zarracatín, Rancho Villalba, Camino de los Matorrales, Arroyo Las Pájaras, Cerro Gómez Cardeña, Cortijo Gómez Cardeña, Venta El Paisano, Cortijo de Vercel, Cortijo de San Bartolomé, Banquetas Canal Bajo Guadalquivir, Cortijo El Torbiscal, Las Alcantarillas, Banquetas Canal Bajo Guadalquivir, Camino particular de Pinganillo, Cañada Real de Venta Larga y Torres Alocaz, Utrera"
+      }
+    },
+    {
+      "id": 12,
+      "fecha": "2018-12-09",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "CORTIJO EL RUBIO",
+        "descripcion": "",
+        "kms": 60.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Camino Los Palos, Cordel del Pico, Mesas y Arca del Agua, Urb. Don Pablo, Cañada R. Venta Larga y Torres Alocaz a Sevilla, Cortijo El Pinganillo, Cortijo La Higuera, Cañada R. Venta Larga y Torres Alocaz, El Palmar de Troya, Banquetas del Canal, Pantano Torre del Aguila, Ctra. del Pantano a La Encinilla, Cañada Real de Utrera a Villamartín (La Negra), El Rubio, _**Venta Diego (AVITUALLAMIENTO)**_, Cañada Real de Utrera a Villamartín (La Negra), Torre del Aguila, Poblado La Cañada, Caña Real de Ubrique a Sevilla, Abrevadero La Ventosilla, Rancho Las Latas, Cortijo Pinganillo, Cañada Real de Venta Larga y Torres Alocaz a Sevilla, Utrera"
+      }
+    },
+    {
+      "id": 13,
+      "fecha": "2018-12-16",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica2.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "GLORIAS DE PILARES",
+        "descripcion": "",
+        "kms": 65.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Camino El Junquillo, La Tenienta, Cañada Real del Pajarero, Los Molares, Cortijo de Pardales, Cortijo de Guardainfantilla, _**El Coronil (AVITUALLAMIENTO)**_, Camino Las Alcabalas, Glorias de Pilares, Camino Las Glorias, El Coronil, Vereda Las Mantecas, Cola de Pantano, Cortijo Casabanca, Camino Los Palos, Utrera"
+      }
+    },
+    {
+      "id": 14,
+      "fecha": "2018-12-23",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica3.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "MARISMILLAS",
+        "descripcion": "",
+        "kms": 70.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Camino de Servicio AVE, Puente de Las Alcantarillas, Trajano, Cortijo de Torremarisma, Estación de Ferrocaril de Las Cabezas, _**Marismillas (AVITUALLAMIENTO)**_, San Leandro, Vetaherrado, El Trobal, Maribañez, Banquetas Canal Bajo Guadalquivir, Camino Los Palacios, Bda. La Fontanilla, Utrera"
+      }
+    },
+    {
+      "id": 15,
+      "fecha": "2019-01-13",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica4.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "EL ALGARVE",
+        "descripcion": "",
+        "kms": 58.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Camino del Junquillo, Cordel del Prado del Gallego, Finca La Tenienta, Los Molares, Cortijo de Pardales, Cortijo Guardainfantilla, Ctra. A-375, Cuesta de los Olivos, Vereda Las Mantecas, Cortijo de Los Algarves, Camino de Majalquivir, _**El Coronil (AVITUALLAMIENTO)**_, Camino de Molares, Cortijo de Guardainfantilla, Cortijo de Pardales, Los Molares, Camino Los Molares/Utrera, Utrera"
+      }
+    },
+    {
+      "id": 16,
+      "fecha": "2019-01-20",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica5.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "HACIENDA DE ORÁN",
+        "descripcion": "",
+        "kms": 68.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": " Utrera, Cañada Real de Las Cabezas (ctra. Las Alcantarillas), Cordel del Pico, Mesas y Arca del Agua, Mataburras, Camino de Pinganillo, Banquetas Canal Bajo Guadalquivir, Trajano, _**El Trobal (AVITUALLAMIENTO)**_, Maribañez, Canal del Bajo Guadalquivir, Cañada Real de Los Palacios a Carmona (ctra.), Hacienda de Orán, Camino de Don Rodrigo, Vereda de Dos Hermanas, Utrera"
+      }
+    },
+    {
+      "id": 17,
+      "fecha": "2019-01-27",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica1.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "LOS GRANADILLOS - CASTILLO DE MARCHENILLA",
+        "descripcion": "",
+        "kms": 66.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Paseo de Consolación, Camino del Vicario, Camino de Los Gordillos, Cordel del Prado de Gallego, Cañada Real de Utrera a Carmona (ctra. Amarilla), Vereda de Benagile, Castillo de Marchenilla, _**Alcalá de Guadaira (AVITUALLAMIENTO)**_, Pinar de Oromana, Camino Cuesta Carretilla, Cordel de Gallego, Camino del Recuero, Camino del Vicario, Paseo de Consolación, Utrera"
+      }
+    },
+    {
+      "id": 18,
+      "fecha": "2019-02-03",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/cote.picture-400.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "MONTELLANO",
+        "descripcion": "",
+        "kms": 75.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Cañada Real del Pajarero, Cañada Real de Utrera a Morón, Los Molares, Camino de El Coronil a Los Molares, _**El Coronil (AVITUALLAMIENTO)**_, Ctra. Morón/Montellano, Camino Las Lumbreras, Sierra San Pablo, Montellano, Venta El Salao, Cortijo Puerto Hatabo, Camino Real de Sevilla a Villamartín, Cortijo Las Glorias, Camino Las Glorias, El Coronil, Camino de El Coronil, Los Molares, Utrera"
+      }
+    },
+    {
+      "id": 19,
+      "fecha": "2019-02-10",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/lospalacios.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "LOS PALACIOS Y VFCA.",
+        "descripcion": "",
+        "kms": 60.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Bda. La Fontanila, Camino de Parpagón, Camino Los Palacios, Canal del Bajo Guadalquivir, Maribañez, Caño de la Vera, _**Los Palacios (AVITUALLAMIENTO)**_, Camino de Managua (Camino servicio Autopista), Camino Don Rodrigo, Cruce Autovía-Sevilla, Cordel del Galego, Cruce Ctra. Amarilla, Cordel del Gallego, Camino del Recuero, La Herradera, Camino paralelo vía del tren, Ronda Norte, La Mulata, Utrera"
+      }
+    },
+    {
+      "id": 20,
+      "fecha": "2019-02-17",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica2.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "CARMONA",
+        "descripcion": "",
+        "kms": 80.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Ctra. Amarilla, Camino de Alba, Cortijo La Armada, Descansadero de Trujillo, Castillo de Marchenilla, Ciudad San Juan de Dios, Antigua Estación de Gandul, Antigua Vía Alcalá-Carmona, _**Carmona (AVITUALLAMIENTO)**_, Ctra. Amarilla, Utrera"
+      }
+    },
+    {
+      "id": 21,
+      "fecha": "2019-02-24",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/lascabezas.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "LAS CABEZAS DE SAN JUAN",
+        "descripcion": "",
+        "kms": 70.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Camino de Servicio AVE, Las Alcantarillas, Trajano, Cortijo Torremarisma, Estación Ferrocarril de Las Cabezas, _**Las Cabezas (AVITUALLAMIENTO)**_, Cortijo de Vercel, Cortijo de Gómez Cardeña, Rancho Villalba, Cordel de Zarracatín, Cortijo de Zarracatín, Laguna de Zarracatín, Cañada Real de Utrera a Villamartín, El Palmar de Troya, Puerta Verde, Cortijo La Higuerra, Camino de Pinganillo, Pinganillo, Puerta Verde, Utrera"
+      }
+    },
+    {
+      "id": 22,
+      "fecha": "2019-02-28",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica3.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 0.0,
+      "ruta": {
+        "nombre": "DÍA DE LA BICICLETA",
+        "descripcion": "",
+        "kms": 0.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "PARTICIPACION DE LA ASOCIACIÓN CON EL MAILLOT OFICIAL EN EL DIA DE LA BICICLETA"
+      }
+    },
+    {
+      "id": 23,
+      "fecha": "2019-03-03",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica4.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "TORRE DEL BOLLO",
+        "descripcion": "",
+        "kms": 72.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Cañada Real de Utrera a Morón, Los Molares, Cortijo de Pardales, Cortijo de Guardainfantilla, _**El Coronil (AVITUALLAMIENTO)**_, Castillo Las Aguzaderas, Cortijo la Rejertilla, Torre del Bollo, Cortijo de El Bollo, Cañada Real de Montellano a Morón (ctra.), La Encinilla, La Negra, Torre del Águila, Poblado La Cañada, Cañada Real de Ubrique a Sevilla, Abrevadero La Ventosilla, Rancho Las Latas, Cortijo Pinganillo, Cañada Real de Venta Larga y Torres Alocaz a Sevilla, Utrera"
+      }
+    },
+    {
+      "id": 24,
+      "fecha": "2019-03-10",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica5.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "CHAPATALES-PINZÓN",
+        "descripcion": "",
+        "kms": 60.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Bda. La Fontanilla, Camino de Parpagón, Canal del Bajo Guadalquivir, Camino de Los Palacios, Maribañez, Camino hacia El Trobal, _**El Trobal (AVITUALLAMIENTO)**_, Pinzón, Chapatales, Los Palacios, Camino Paralelo Autopista N-IV, Ctra. Don Rodrigo, Hacienda La Indiana, Pinar de Doña, Camino de Toranzo, Utrera"
+      }
+    },
+    {
+      "id": 25,
+      "fecha": "2019-03-17",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica1.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "MONTEQUINTO",
+        "descripcion": "",
+        "kms": 90.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Cementerio, Vereda de Dos Hermanas, Camino Vecinal de Don Rodrigo, Camino paralelo ctra. N-IV, Carril Bici Vereda del Arrecife, Parche La Corchuela, Dehesa de La Atalaya, _**Urb. La Hermandad (AVITUALLAMIENTO)**_, Cir. del Polvero, Nuevo cáuce del Guadaíra, Urb. Fuente del Rey, Bellavista, Urb. Montequito, Camino Paralelo Autovía Sevilla-Utrera, Utrera"
+      }
+    },
+    {
+      "id": 26,
+      "fecha": "2019-03-24",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica2.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "HACIENDA DEL GATO",
+        "descripcion": "",
+        "kms": 75.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Cañada Real del Pajarero, Cañada Real de Utrera a Morón, Los Molares, Cortijo Pardales, Cortijo Guardainfantilla, _**El Coronil (AVITUALLAMIENTO)**_, Ctra. Las Alcabalas, Ctra. Morón/Montellano, Camino Las Lumbreras, Camino Hacienda del Gato, Sierra de San Pablo, Montellano, Venta El Salado, Cortijo Puerta Hatabo, Cañada Real de Sevilla a Villamartín- Camino Las Glorias, El Coronil, Camino de El Coronil a Molares, Camino Cañada Real de Utrera a Morón, Utrera"
+      }
+    },
+    {
+      "id": 27,
+      "fecha": "2019-03-31",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica3.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "ZARRACATÍN",
+        "descripcion": "",
+        "kms": 60.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Camino La tenienta, Camino de Mairena, Los Molares, Camino Los Pescaderos, Camino Los Palos, Rancho El Cordobés, Vereda Las Mantecas, Poblado La Cañada, Torre del Águila, Cortijo de El Mármol, Cordel de Zarracatín, Cortijo de Zarracatín, Cañada Real de Utrera a Villamartín, _**El Palmar de Troya (AVITUALLAMIENTO)**_, Puerta Verde, Rancho Las Latas, Cortijo Los Carrascales, Camino Los Palos, Utrera"
+      }
+    },
+    {
+      "id": 28,
+      "fecha": "2019-04-07",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica4.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "MONTEQUINTO GOLF",
+        "descripcion": "",
+        "kms": 72.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Paseo de Consolación, Camino del Recuero, Ctra. Amarilla, Vereda de Machamorón, Cordel del Prado del Gallego, Cortijo La Armada, Castillo Marchenilla, _**Alcalá de Guadaira (AVITUALLAMIENTO)**_, Parque de Oromana, Puente del Dragón, Sendero Río Guadaira, Puente SE-40, Urbanización Sevilla Golf, Corredor Verde Alcalá/Pablo de Olavide, Subida Castillo Alcalá, Camino Cuesta Carretilla, Camino Casabanca, Utrera"
+      }
+    },
+    {
+      "id": 29,
+      "fecha": "2019-04-21",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica5.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "LAS DOS TORRES",
+        "descripcion": "",
+        "kms": 80.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Cañada Real del Pajarero, Camino de Molares, Los Molares, Cañada Real de Morón a Sevilla, El Coronil, Camino Las Glorias, Cortijo Puerto Hatabo, Venta El Salado, Camino paralello ctra. Utrera-Montellano, Camino Los Toros, Arroyo del Salado, Cañada Real de Montellano a Morón (ctra.), _**Venta Diego (Avituallamiento)**_, Cañada Real de Utrera a Villamartín (La Negra), Camino paralelo Arroyo Salado, Abrevadero La Ventosilla, Rancho Las Latas, Cortijo El Pinganillo, Cañada Real de Venta Larga y Torres Alocaz, Utrera"
+      }
+    },
+    {
+      "id": 30,
+      "fecha": "2019-04-28",
+      "hora": "09:00:00",
+      "horario_verano": "N",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica1.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "MAIRENA DEL ALCOR",
+        "descripcion": "",
+        "kms": 70.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Pol. Ind. La Aurora, Camino Cuesta Carretilla, Cruce Cordel Prado del Gallego, Camino de Maestre, Parque de Oromana, Ribera Río Guadaíra, Descansadero de Trujillo, Castillo Marchenilla, Cruce Ctra. A-360, Camino a Ctra. SE-208, Cruce Ctra- SE-208, Los Llanos de Gandul, Cuesta Asfaltada a Mairena, _**Mairena del Alcor (AVITUALLAMIENTO)**_, Camion de Mairena, Vía Servicio Autovía A-92, Ctra. Amarilla, Cordel del Prado del Gallego, Camino del Recuero, La Herraera, Paseo de Consolación, Utrera"
+      }
+    },
+    {
+      "id": 31,
+      "fecha": "2019-05-05",
+      "hora": "08:30:00",
+      "horario_verano": "Y",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica2.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "MORÓN DE LA FRONTERA",
+        "descripcion": "",
+        "kms": 80.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Cañada Real del Pajarero, Caserío San Francisco (cruce ctra. Alcalá-Morón), Vereda de los Puertos, Vereda de Morón a Sevilla, _**Morón de la Frontera (AVITUALLAMIENTO)**_, Ctra. Morón/Montellano, Camino Las Caleras de la Sierra, Camino Las Alcabalas, El Coronil, Camino El Coronil/Los Molares, Los Molares, Camino de Los Molares, Utrera"
+      }
+    },
+    {
+      "id": 32,
+      "fecha": "2019-05-12",
+      "hora": "08:30:00",
+      "horario_verano": "Y",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica3.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "PARADAS",
+        "descripcion": "",
+        "kms": 72.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Paseo de Consolación, Camino del Recuero, La Herraera, Cordel del Prado del Gallego, Cañada Real de Utrera a Los Palacios (ctra. Amarilla), Vía de servicio Autovía Sevilla/Málaga, Vereda del Río Tinto, Vereda de Sevilla a Paradas, _**Paradas (AVITUALLAMIENTO)**_, Camino a Arahal, Arahal, Vía Verde de Arahal (por el puente de hierro), Camino Cortijo El Martinazo, Camino de El Coronil a Arahal, cruce con Vereda de Morón a Sevilla, Vereda de los Puertos (cruce ctra. Alcalá-Morón), Caserío San Francisco, Cortijo San Julian, Camino de Arahal, Los Molares, Camino de Utrera, Utrera"
+      }
+    },
+    {
+      "id": 33,
+      "fecha": "2019-05-19",
+      "hora": "08:30:00",
+      "horario_verano": "Y",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica4.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "PARCELAS DEL SALADO",
+        "descripcion": "",
+        "kms": 72.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Camino Los Molares, Camino Los Molares a El Coronil, _**El Coronil (AVITUALLAMIENTO)**_, Camino Las Glorias, Puerto Hatabo, Venta El Salado, Camino Parcelas del Salado, Ctra. Montellano a Morón, Cauce Arroyo Salado, Arroyo La Charca, Camino Las Arenas, Ctra. Las Alcabalas, El Coronil, Camino El Coronil a Los Molares, Los Molares, Utrera"
+      }
+    },
+    {
+      "id": 34,
+      "fecha": "2019-05-26",
+      "hora": "08:30:00",
+      "horario_verano": "Y",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica5.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "CORIA DEL RÍO - CORREDOR VERDE",
+        "descripcion": "",
+        "kms": 80.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, La Fontanilla, Camino Pinar de Doña, Hacienda La Indiana, Camino Vecinal de Don Rodrigo, Camino paralelo N-IV, Ctra. La Isla, Parque La Corchuela, Puente sobre el río Guadaira, Venta Tobalina, _**Coria del Río (AVITUALLAMIENTO)**_, Gelves, San Juan de Aznalfarache, Los Remedios, Avda. La Palmera, Ronda del Tamarguillo, Avda. La Paz, Universidad Pablo de Olavide, Montequinto, Vía servicio autovía Utrera-Sevilla, Utrera"
+      }
+    },
+    {
+      "id": 35,
+      "fecha": "2019-06-02",
+      "hora": "08:30:00",
+      "horario_verano": "Y",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica1.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "ARROYO SALADO",
+        "descripcion": "",
+        "kms": 77.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": "Utrera, Cañada Real del Pajarero, Cañada Real de Utrera a Morón, Los Molares, Camino de El Coronil a Los Molares, El Coronil, Camino Las Glorias, Cañada Real de Sevilla a Villamartín, Cortijo Puerto Hatabo, Venta El Salado, Camino Arroyo Dulce, Cauce Arroyo Salado de Morón, Ctra. Morón a Montellano, _**Montellano (AVITUALLAMIENTO)**_, Venta El Salado, Puerta Hatabo, Camino Las Glorias, El Coronil, Camino de El Coronil a Los Molares, Camino Molares, Utrera"
+      }
+    },
+    {
+      "id": 36,
+      "fecha": "2019-06-09",
+      "hora": "08:30:00",
+      "horario_verano": "Y",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/generica2.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "CORTIJO EL RUBIO",
+        "descripcion": "",
+        "kms": 80.0,
+        "duracion": 0.0,
+        "dificultad": "Alta",
+        "track": "",
+        "recorrido": "Utrera, Camino Los Palos, Cañada Real del Prado de gallego, Rancho las Latas, Abrevadero La Ventosilla, Cañada Real de Ubrique a Sevilla, Poblado La Cañada, Torre del Pantano Cañada Real de Utrera a Villamartín (La Negra), El Rubio, _**Venta Diego (AVITUALLAMIENTO)**_, Venta La Piedra, Cortijo de Ruchenilla, Cortijo de Ruchena, Poblado de Fátima, Ctra. Villamartín, Camino de Espera, Torres Alocaz, Ctra. Nac. IV, Venta El Paisano, Cortijo Gómez Cardeña, Rancho Villalba, Cortijo de Zarracatín, Cordel de Zarracatín, El Palmar de Troya, Cañada Real de Venta Larga y Torres Alocaz, Cortijo La Higuera, Camino de Pinganillo, Cortijo Pinganillo, Cañada Real de Venta Larga y Torres Alocaz a Sevilla, Utrera"
+      }
+    },
+    {
+      "id": 37,
+      "fecha": "2019-06-16",
+      "hora": "08:30:00",
+      "horario_verano": "Y",
+      "lugar_salida": "Estación de servicio GALP",
+      "url_portada": "assets/images/routes_cover/El-Viso-del-Alcor-3.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "EL VISO DEL ALCOR",
+        "descripcion": "",
+        "kms": 70.0,
+        "duracion": 0.0,
+        "dificultad": "Media",
+        "track": "",
+        "recorrido": " Utrera, Paseo de Consolación, Camino del Recuero, Camino de Mairena, _**El Viso del Alcor (AVITUALLAMIENTO)**_, Cruce Vda. de Carmona, Cruce ctra. Se-210 (Mairena), Casa de Bencarrón (antigua vía Alcalá-Carmona), Antigua estación de Gandul, Ciudad de San Juan de Dios, Castillo de Marchenilla, Descansadero de Trujillo, Camino de La Armada, Camino de Alba, Camino de Mairena, Cañada Real Los Palacios/Carmona (Ctra. Amarilla), Utrera"
+      }
+    }
+  ]
+}

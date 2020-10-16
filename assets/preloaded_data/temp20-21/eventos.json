@@ -1,0 +1,105 @@
+{
+  "temporada": {
+    "id": "2021",
+    "titulo": "Actividades de 2020 - 21"
+  },
+  "eventos": [
+    {
+      "fecha_inicio": "2019-09-15",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "PRIMERA SALIDA",
+      "subtitulo": "Primera salida de la temporada.",
+      "descripcion": "",
+      "direccion": "",
+      "url_portada": "assets/images/events/no_foto.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-06-13",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "ÚLTIMA SALIDA",
+      "subtitulo": "Última salida de la temporada.",
+      "descripcion": "",
+      "direccion": "",
+      "url_portada": "assets/images/events/no_foto.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-10-26",
+      "fecha_fin": "2019-10-27",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "EXCURSIÓN DE OTOÑO",
+      "subtitulo": "Primera excursión de la temporada.",
+      "descripcion": "",
+      "direccion": "",
+      "url_portada": "assets/images/events/no_foto.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-11-01",
+      "fecha_fin": "2019-11-30",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "SEMANA UTRERANA DE LA MOVILIDAD",
+      "subtitulo": "Semana Utrerana de la Movilidad",
+      "descripcion": "Por determinar",
+      "direccion": "Por determinar",
+      "url_portada": "assets/images/events/semana_movilidad.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-11-01",
+      "fecha_fin": "2019-11-30",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "CICLO DE CHARLAS Y CONFERENCIAS",
+      "subtitulo": "Ciclo de charlas y conferencias medioambientales",
+      "descripcion": "Ciclo de charlas y conferencias en relación a las actividades y acciones que la Asociación \"Legiones de Leptis\" ha venido desarrollando durante sus 20 años de historia.",
+      "direccion": "",
+      "url_portada": "assets/images/events/20anos_enverde.png",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-11-01",
+      "fecha_fin": "2019-11-30",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "PLANTACIÓN EN PUERTA VERDE",
+      "subtitulo": "Tradicional plantación de árboles en el corredor verde de Utrera.",
+      "descripcion": "Plantación anual de árboles en la zona del corredor verde de Utrera. Tras la finalización de la plantación, se realizará una convivencia de socios y familia.",
+      "direccion": "Zona posterior a la Guardería infantil 'La Fuente', Utrera, Sevilla",
+      "url_portada": "assets/images/events/plantacion_puertaverde.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2020-02-28",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "DÍA DE ANDALUCÍA",
+      "subtitulo": "Celebración del Día de Andalucía",
+      "descripcion": "Colaboración en la celebración del Día de Andalucía coordinando la salida en bicicleta por las calles de Utrera, realizada por el Excmo. Ayuntamiento de Utrera.",
+      "direccion": "Plaza del Altozano, Utrera, Sevilla",
+      "url_portada": "assets/images/events/andalucia28f.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2020-03-28",
+      "fecha_fin": "2020-03-29",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "EXCURSIÓN PRIMAVERA",
+      "subtitulo": "Segunda excursión de la temporada.",
+      "descripcion": "",
+      "direccion": "",
+      "url_portada": "assets/images/events/no_foto.jpg",
+      "fotos": []
+    }
+  ]
+}
+

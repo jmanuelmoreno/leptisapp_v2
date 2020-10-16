@@ -1,0 +1,130 @@
+{
+  "temporada": {
+    "id": "2019",
+    "titulo": "Actividades de 2018 - 19"
+  },
+  "eventos": [
+    {
+      "fecha_inicio": "2018-11-03",
+      "fecha_fin": "2018-11-04",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "EXCURSIÓN DE OTOÑO",
+      "subtitulo": "Primera excursión de la temporada.",
+      "descripcion": "Excursión a Écija.",
+      "direccion": "",
+      "url_portada": "assets/images/events/excurs_ecija.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2018-11-17",
+      "fecha_fin": "",
+      "hora": "10:00:00",
+      "autores": ["Leptis"],
+      "titulo": "PLANTACIÓN EN PUERTA VERDE",
+      "subtitulo": "Tradicional plantación de árboles en el corredor verde de Utrera.",
+      "descripcion": "Plantación anual de árboles en la zona del corredor verde de Utrera. Tras la finalización de la plantación, se realizará una convivencia de socios y familia.",
+      "direccion": "Zona posterior a la Guardería infantil 'La Fuente', Utrera, Sevilla",
+      "url_portada": "assets/images/events/plantacion_puertaverde.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-02-27",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "EXPOSICIÓN AUDIOVISUAL '20 AÑOS EN VERDE'",
+      "subtitulo": "Exposición audiovisual para la conmemoración del 20 aniversario",
+      "descripcion": "Exposición audiovisual celebrada en la Casa de la Cultura de Utrera, en la que se podrán ver fotografías de las salidas y eventos celebrados por la Asociación \"Legiones de Leptis\" en sus 20 años de historia. También se realizaran charlas sobre distintos temas relacionados con el medio ambiente y el ciclismo de montaña.",
+      "direccion": "Casa de la Cultura, Utrera, Sevilla",
+      "url_portada": "assets/images/events/20anos_enverde.png",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-02-28",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "DÍA DE ANDALUCÍA",
+      "subtitulo": "Celebración del Día de Andalucía",
+      "descripcion": "Colaboración en la celebración del Día de Andalucía coordinando la salida en bicicleta por las calles de Utrera, realizada por el Excmo. Ayuntamiento de Utrera.",
+      "direccion": "Plaza del Altozano, Utrera, Sevilla",
+      "url_portada": "assets/images/events/andalucia28f.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-03-16",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "FIESTA DEL ÁRBOL",
+      "subtitulo": "Macroplantación de árboles con motivo del 20 Aniversario",
+      "descripcion": "Plantación de árboles pública para la celebración del 20 Aniversario de la Asociación \"Legiones de Leptis\".",
+      "direccion": "Por determinar",
+      "url_portada": "assets/images/events/fiesta_arbol.png",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-05-04",
+      "fecha_fin": "2019-05-05",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "EXCURSIÓN PRIMAVERA",
+      "subtitulo": "",
+      "descripcion": "Por determinar.",
+      "direccion": "Por determinar",
+      "url_portada": "assets/images/events/no_foto.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-09-16",
+      "fecha_fin": "2019-09-22",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "SEMANA EUROPEA DE LA MOVILIDAD",
+      "subtitulo": "Semana Europea de la Movilidad",
+      "descripcion": "Por determinar",
+      "direccion": "Por determinar",
+      "url_portada": "assets/images/events/semana_movilidad.jpg",
+      "fotos": []
+    }
+  ,
+    {
+      "fecha_inicio": "2019-10-05",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "MEDIA CENTENA DE LA CAMPIÑA",
+      "subtitulo": "Salida en bicicleta por la campiña de Utrera",
+      "descripcion": "Recuperación de la histórica salida en biciclera realizada por la Asociación \"Legiones de Leptis\" con motivo del 20 Aniversario.",
+      "direccion": "",
+      "url_portada": "assets/images/events/media_centena.jpg",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-11-01",
+      "fecha_fin": "2019-11-30",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "CICLO DE CHARLAS Y CONFERENCIAS",
+      "subtitulo": "Ciclo de charlas y conferencias medioambientales",
+      "descripcion": "Ciclo de charlas y conferencias en relación a las actividades y acciones que la Asociación \"Legiones de Leptis\" ha venido desarrollando durante sus 20 años de historia.",
+      "direccion": "",
+      "url_portada": "assets/images/events/20anos_enverde.png",
+      "fotos": []
+    },
+    {
+      "fecha_inicio": "2019-06-22",
+      "fecha_fin": "",
+      "hora": "",
+      "autores": ["Leptis"],
+      "titulo": "EXCURSIÓN FINAL TEMPORADA",
+      "subtitulo": "Broche final de temporada",
+      "descripcion": "HORARIO Y LUGAR A DETERMINAR.",
+      "direccion": "",
+      "url_portada": "assets/images/events/final_temporada.jpg",
+      "fotos": []
+    }
+  ]
+}
+

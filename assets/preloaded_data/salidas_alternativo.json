@@ -1,0 +1,123 @@
+{
+  "temporada": {
+    "id": "2020",
+    "titulo": "Temporada 2019 - 2020"
+  },
+  "calendario": [
+    {
+      "id": 0,
+      "fecha": "",
+      "hora": "",
+      "horario_verano": "N",
+      "lugar_salida": "Plaza Pío XII",
+      "url_portada": "assets/images/routes_cover/lospalacios.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "LOS PALACIOS Y VFCA.",
+        "descripcion": "",
+        "kms": 0.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Via de servicio carretera de Sevilla, Camino Don Rodrigo, Nacional IV, Carretera La Isla, _**Los Palacios (AVITUALLAMIENTO)**_, Ctra. Nacional IV, El Torbiscal, Guadalema de los Quintero, El Palmar de Troya, Utrera"
+      }
+    },
+    {
+      "id": 1,
+      "fecha": "",
+      "hora": "",
+      "horario_verano": "N",
+      "lugar_salida": "Plaza Pío XII",
+      "url_portada": "assets/images/routes_cover/lascabezas.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "LAS CABEZAS",
+        "descripcion": "",
+        "kms": 0.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Camino Paralelo Via AVE, Trajano, _**Las Cabezas (AVITUALLAMIENTO)**_, Vetaherrado, Maribañez, Los Palacios, Utrera"
+      }
+    },
+    {
+      "id": 2,
+      "fecha": "",
+      "hora": "",
+      "horario_verano": "N",
+      "lugar_salida": "Plaza Pío XII",
+      "url_portada": "assets/images/routes_cover/generica2.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "VENTA CAMPANITA",
+        "descripcion": "",
+        "kms": 0.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Los Molares, Ctra. Palomo, Ctra. Morón, _**Venta Campanita (AVITUALLAMIENTO)**_, Ctra. Morón-El Coronil, El Coronil, Ctra. El Coronil-Molares, Cortijo de Palomo, Los Molares, Utrera"
+      }
+    },
+    {
+      "id": 3,
+      "fecha": "",
+      "hora": "",
+      "horario_verano": "N",
+      "lugar_salida": "Plaza Pío XII",
+      "url_portada": "assets/images/routes_cover/generica.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "CORTIJO EL RUBIO",
+        "descripcion": "",
+        "kms": 0.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Ctra. El Palmar, Pantano Torre del Aguila, Ctra. La Negra, _**Venta Diego (AVITUALLAMIENTO)**_, Ctra. La Negra, Pantano Torre del Aguila, El Palmar, Guadalema de los Quintero, El Torbiscal, Carretera de Las Alcantarillas, Utrera"
+      }
+    },
+    {
+      "id": 4,
+      "fecha": "",
+      "hora": "",
+      "horario_verano": "N",
+      "lugar_salida": "Plaza Pío XII",
+      "url_portada": "assets/images/routes_cover/cote.picture-400.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "MONTELLANO",
+        "descripcion": "",
+        "kms": 0.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Los Molares, Ctra. Palomo, Ctra. Alcala-Morón, _**El Coronil (AVITUALLAMIENTO)**_, Ctra. Morón-El Coronil, Ctra. Morón-Montellano, Ctra. Montellano-Las Cabezas, La Negra, El Palmar de Troya, Utrera"
+      }
+    },
+    {
+      "id": 5,
+      "fecha": "",
+      "hora": "",
+      "horario_verano": "N",
+      "lugar_salida": "Plaza Pío XII",
+      "url_portada": "assets/images/routes_cover/sevilla-alcala-de-guadaira.jpg",
+      "autores": ["Leptis"],
+      "puntuacion": 2.5,
+      "ruta": {
+        "nombre": "ALCALÁ DE GUADAÍRA",
+        "descripcion": "",
+        "kms": 0.0,
+        "duracion": 0.0,
+        "dificultad": "Baja",
+        "track": "",
+        "recorrido": "Utrera, Ctra. Amarilla, Vereda Benavegile, _**Alcalá de Guadaira (AVITUALLAMIENTO)**_, Carretera Dos Hermanas, Camino de servicio Carretera Utrera/Sevilla, Utrera"
+      }
+    }
+  ]
+}
+
