@@ -20,7 +20,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera - Bda. La Fontanila - Camino de Parpagón - Camino Los Palacios - Canal del Bajo Guadalquivir - Maribañez - Caño de la Vera - _**Los Palacios (AVITUALLAMIENTO)**_ - Camino de Managua (Camino servicio Autopista) - Camino Don Rodrigo - Cruce Autovía-Sevilla - Cordel del Galego - Cruce Ctra. Amarilla - Cordel del Gallego - Camino del Recuero - La Herradera - Camino paralelo vía del tren - Ronda Norte - La Mulata - Utrera."
+        "recorrido": "Utrera - Bda. La Fontanila - Camino de Parpagón - Camino Los Palacios - Canal del Bajo Guadalquivir - Maribañez - Caño de la Vera - _Los Palacios (AVITUALLAMIENTO)_ - Camino de Managua (Camino servicio Autopista) - Camino Don Rodrigo - Cruce Autovía-Sevilla - Cordel del Galego - Cruce Ctra. Amarilla - Cordel del Gallego - Camino del Recuero - La Herradera - Camino paralelo vía del tren - Ronda Norte - La Mulata - Utrera."
       }
     },
     {
@@ -77,7 +77,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "assets/preloaded_data/routes/Trajano.gpx",
-        "recorrido": " Utrera - Cañada Real de Venta Larga y Torres Alocaz (Puerta Verde) - Cortijo La Higuera - Cordel del Prado del Gallego - Cortijo Jaime Pérez - Camino a Trajano - _**Trajano (AVITUALLAMIENTO)**_ - Camino a El Trobal - Camino a Maribañez - Canal del Bajo Guadalquivir - Camino Servicio Vía del AVE - Cañada Real Venta Larga y Torres Alocaz - Utrera."
+        "recorrido": " Utrera - Cañada Real de Venta Larga y Torres Alocaz (Puerta Verde) - Cortijo La Higuera - Cordel del Prado del Gallego - Cortijo Jaime Pérez - Camino a Trajano - _Trajano (AVITUALLAMIENTO)_ - Camino a El Trobal - Camino a Maribañez - Canal del Bajo Guadalquivir - Camino Servicio Vía del AVE - Cañada Real Venta Larga y Torres Alocaz - Utrera."
       }
     },
     {
@@ -115,7 +115,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Cañada Real de Utrera a Morón - Los Molares - Cortijo de Pardales - Cortijo de Guardainfantilla - _**El Coronil (AVITUALLAMIENTO)**_ - Castillo Las Aguzaderas - Cortijo la Rejertilla - Torre del Bollo - Cortijo de El Bollo - Cañada Real de Montellano a Morón (ctra.) - La Encinilla - La Negra - Torre del Águila - Poblado La Cañada - Cañada Real de Ubrique a Sevilla - Abrevadero La Ventosilla - Rancho Las Latas - Cortijo Pinganillo - Cañada Real de Venta Larga y Torres Alocaz a Sevilla - Utrera."
+        "recorrido": "Utrera - Cañada Real de Utrera a Morón - Los Molares - Cortijo de Pardales - Cortijo de Guardainfantilla - _El Coronil (AVITUALLAMIENTO)_ - Castillo Las Aguzaderas - Cortijo la Rejertilla - Torre del Bollo - Cortijo de El Bollo - Cañada Real de Montellano a Morón (ctra.) - La Encinilla - La Negra - Torre del Águila - Poblado La Cañada - Cañada Real de Ubrique a Sevilla - Abrevadero La Ventosilla - Rancho Las Latas - Cortijo Pinganillo - Cañada Real de Venta Larga y Torres Alocaz a Sevilla - Utrera."
       }
     },
     {
@@ -134,7 +134,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "assets/preloaded_data/routes/AlcaláDeGuadaira.gpx",
-        "recorrido": "Utrera - La Fontanilla - Camino de Toranzo - Vereda de Los Puertos - Pinar de Doña - Hacienda La Indiana - Pinar Santa Lucía - Ctra. Don Rodrigo - Vereda del Prado del Gallego - Camino Cuesta Carretilla - Camino de Maestre - _**Alcalá de Guadaíra (AVITUALLAMIENTO)**_ - Castillo de Marchenilla - Descansadero de Trujillo - Camino de La Armada - Cortijo La Armada - Vereda del Prado del Gallego - Camino del Recuero - Via Servicio Tren - Paseo Consolación - Utrera."
+        "recorrido": "Utrera - La Fontanilla - Camino de Toranzo - Vereda de Los Puertos - Pinar de Doña - Hacienda La Indiana - Pinar Santa Lucía - Ctra. Don Rodrigo - Vereda del Prado del Gallego - Camino Cuesta Carretilla - Camino de Maestre - _Alcalá de Guadaíra (AVITUALLAMIENTO)_ - Castillo de Marchenilla - Descansadero de Trujillo - Camino de La Armada - Cortijo La Armada - Vereda del Prado del Gallego - Camino del Recuero - Via Servicio Tren - Paseo Consolación - Utrera."
       }
     },
     {
@@ -153,7 +153,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "assets/preloaded_data/routes/CortijoElRubio.gpx",
-        "recorrido": " Utrera - Camino Los Palos - Salinas de Valcargado - Rancho Las Latas - Cortijo La Ventosilla - Parcelas de Troya - Banquetas del Canal - Pantano Torre del Aguila - Ctra. del Pantano a La Encinilla - Cañada Real de Utrera a Villamartín (La Negra) - El Rubio - _**Venta Diego (AVITUALLAMIENTO)**_ - Cañada Real de Utrera a Villamartín (La Negra) - Cortijo El Mármol - Cortijo Zarracatín - El Palmar de Troya - Puerta Verde - Cortijo Pinganillo - Cañada Real de Venta Larga y Torres Alocaz a Sevilla - Utrera."
+        "recorrido": " Utrera - Camino Los Palos - Salinas de Valcargado - Rancho Las Latas - Cortijo La Ventosilla - Parcelas de Troya - Banquetas del Canal - Pantano Torre del Aguila - Ctra. del Pantano a La Encinilla - Cañada Real de Utrera a Villamartín (La Negra) - El Rubio - _Venta Diego (AVITUALLAMIENTO)_ - Cañada Real de Utrera a Villamartín (La Negra) - Cortijo El Mármol - Cortijo Zarracatín - El Palmar de Troya - Puerta Verde - Cortijo Pinganillo - Cañada Real de Venta Larga y Torres Alocaz a Sevilla - Utrera."
       }
     },
     {
@@ -210,7 +210,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera - Vereda de Dos Hermanas - Cortijo José, Jesús y María - Vertedero - Ctra. Don Rodrigo - Hacienda Orán - Cañada Real de Los Palacios a Carmona - Camino Paralelo Canal del Bajo Guadalquivir - Camino a Los Palacios - Camino a El Trobal - _**El Trobal (AVITUALLAMIENTO)**_ - Trajano - Banquetas Canal Bajo Guadalquivir - Camino de Pinganillo - Camino hacia Mataburras - Puerta Verde - Utrera."
+        "recorrido": "Utrera - Vereda de Dos Hermanas - Cortijo José, Jesús y María - Vertedero - Ctra. Don Rodrigo - Hacienda Orán - Cañada Real de Los Palacios a Carmona - Camino Paralelo Canal del Bajo Guadalquivir - Camino a Los Palacios - Camino a El Trobal - _El Trobal (AVITUALLAMIENTO)_ - Trajano - Banquetas Canal Bajo Guadalquivir - Camino de Pinganillo - Camino hacia Mataburras - Puerta Verde - Utrera."
       }
     },
     {
@@ -229,7 +229,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera - Camino El Junquillo - La Tenienta - Cañada Real del Pajarero - Los Molares - Cortijo de Pardales - Cortijo de Guardainfantilla - _**El Coronil (AVITUALLAMIENTO)**_ - Camino Las Alcabalas - Glorias de Pilares - Camino Las Glorias - El Coronil - Vereda Las Mantecas - Cuesta Los Olivos - Ctra. EL Coronil - Cortijo Guardainfantilla - Cortijo de Pardales - Los Molares - Camino de Molares - Utrera."
+        "recorrido": "Utrera - Camino El Junquillo - La Tenienta - Cañada Real del Pajarero - Los Molares - Cortijo de Pardales - Cortijo de Guardainfantilla - _El Coronil (AVITUALLAMIENTO)_ - Camino Las Alcabalas - Glorias de Pilares - Camino Las Glorias - El Coronil - Vereda Las Mantecas - Cuesta Los Olivos - Ctra. EL Coronil - Cortijo Guardainfantilla - Cortijo de Pardales - Los Molares - Camino de Molares - Utrera."
       }
     },
     {
@@ -248,7 +248,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera - Cañada Real del Pajarero - Cañada Real de Utrera a Morón - Los Molares - Cortijo de Palomo - Ctra. Alcalá-Morón - Cortijo de Casulilla - _**Venta la Ramira (AVITUALLAMIENTO)**_ - Ctra. Alcalá-Morón - Venta Campanita - Vereda hacia Ctra. de las Lubreras - Ctra. Las Lumbreras - El Coronil - Cortijo de Pardales - Cortijo de Guardainfantilla - Camino de Utrera a Los Molares - Utrera."
+        "recorrido": "Utrera - Cañada Real del Pajarero - Cañada Real de Utrera a Morón - Los Molares - Cortijo de Palomo - Ctra. Alcalá-Morón - Cortijo de Casulilla - _Venta la Ramira (AVITUALLAMIENTO)_ - Ctra. Alcalá-Morón - Venta Campanita - Vereda hacia Ctra. de las Lubreras - Ctra. Las Lumbreras - El Coronil - Cortijo de Pardales - Cortijo de Guardainfantilla - Camino de Utrera a Los Molares - Utrera."
       }
     },
     {
@@ -267,7 +267,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "assets/preloaded_data/routes/TorresAlocaz.gpx",
-        "recorrido": "Utrera - Cañada Real de Venta Larga y Torres Alocaz a Sevilla - Cortijo Pinganillo - Cortijo La Higuera - Cordel del Prado del Gallgo - Rancho Las Latas - Cortijo La Ventosilla - Canteras de Troya - El Palmar de Troya - Cañada Real de Utrera a Villamartín - Cordel de Zarracatín - Rancho Villalba - Camino de los Matorrales - Arroyo Los Alguaces - Camino Repetidor - Ctra- N-IV - Torres Alocaz - Camino Alguaciles Bajos - Ctra. a Montellano - Camino trasera Venta Diego - _**Venta Diego (AVITUALLAMIENTO)**_ - La Negra - Pantano Torre del Águila - Poblado La Cañada - Abrevadero La Ventosilla - Cortijo Los Carrascales - Camino Los Palos - Utrera."
+        "recorrido": "Utrera - Cañada Real de Venta Larga y Torres Alocaz a Sevilla - Cortijo Pinganillo - Cortijo La Higuera - Cordel del Prado del Gallgo - Rancho Las Latas - Cortijo La Ventosilla - Canteras de Troya - El Palmar de Troya - Cañada Real de Utrera a Villamartín - Cordel de Zarracatín - Rancho Villalba - Camino de los Matorrales - Arroyo Los Alguaces - Camino Repetidor - Ctra- N-IV - Torres Alocaz - Camino Alguaciles Bajos - Ctra. a Montellano - Camino trasera Venta Diego - _Venta Diego (AVITUALLAMIENTO)_ - La Negra - Pantano Torre del Águila - Poblado La Cañada - Abrevadero La Ventosilla - Cortijo Los Carrascales - Camino Los Palos - Utrera."
       }
     },
     {
@@ -305,7 +305,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Camino Los Palos - Cordel del Pico y Mesa del Agua - Los Molares - Camino de El Coronil a Los Molares - _**El Coronil (AVITUALLAMIENTO)**_ - Camino Las Glorias - Cañada Real Sevilla a Villamartín - Cortijo Puerto Hatabo - Venta El Salao - Cordel de los Puertos a Montellano - Arroyo Dulce - Camino Alcabalas - Camino de El Coronil a Los Molares - Cortijo de Guardainfantilla - Cortijo de Pardales - Los Molares - Cañada Real de Utrera a Morón - Cañada Real del Pajarero - Utrera."
+        "recorrido": "Utrera - Camino Los Palos - Cordel del Pico y Mesa del Agua - Los Molares - Camino de El Coronil a Los Molares - _El Coronil (AVITUALLAMIENTO)_ - Camino Las Glorias - Cañada Real Sevilla a Villamartín - Cortijo Puerto Hatabo - Venta El Salao - Cordel de los Puertos a Montellano - Arroyo Dulce - Camino Alcabalas - Camino de El Coronil a Los Molares - Cortijo de Guardainfantilla - Cortijo de Pardales - Los Molares - Cañada Real de Utrera a Morón - Cañada Real del Pajarero - Utrera."
       }
     },
     {
@@ -324,7 +324,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera - Camino Los Palos - Rancho El Cordobés - Poblado La Cañada - Camino paralelo canal de El Pantano - Camino Parcelas de Troya - _**El Palmar de Troya (AVITUALLAMIENTO)**_ - Cañada Real de Utrera a Villamartín - Cortijo Zarracatín - Cordel de Zarracatín - Rancho Villalba - Camino de los Matorrales - Arroyo Las Pájaras - Cerro Gómez Cardeña - Cortijo Gómez Cardeña - Venta El Paisano - Cortijo de Vercel - Cortijo de San Bartolomé - Banquetas Canal Bajo Guadalquivir - Cortijo El Torbiscal - Las Alcantarillas - Banquetas Canal Bajo Guadalquivir - Camino particular de Pinganillo - Cañada Real de Venta Larga y Torres Alocaz - Utrera."
+        "recorrido": "Utrera - Camino Los Palos - Rancho El Cordobés - Poblado La Cañada - Camino paralelo canal de El Pantano - Camino Parcelas de Troya - _El Palmar de Troya (AVITUALLAMIENTO)_ - Cañada Real de Utrera a Villamartín - Cortijo Zarracatín - Cordel de Zarracatín - Rancho Villalba - Camino de los Matorrales - Arroyo Las Pájaras - Cerro Gómez Cardeña - Cortijo Gómez Cardeña - Venta El Paisano - Cortijo de Vercel - Cortijo de San Bartolomé - Banquetas Canal Bajo Guadalquivir - Cortijo El Torbiscal - Las Alcantarillas - Banquetas Canal Bajo Guadalquivir - Camino particular de Pinganillo - Cañada Real de Venta Larga y Torres Alocaz - Utrera."
       }
     },
     {
@@ -343,7 +343,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Cañada Real de Venta Larga y Torres Alocaz - Cordel del Pico, Mesa y Arca del Agua (pista aviones) - Camino hacia finca El Pinganillo - Camino de Servicio AVE - Puente de Las Alcantarillas - Camino Lateral Canal Riego - Estación de Ferrocaril de Las Cabezas - _**Marismillas (AVITUALLAMIENTO)**_ - San Leandro - Vetaherrado - El Trobal - Maribañez - Banquetas Canal Bajo Guadalquivir - Camino Los Palacios - Bda. La Fontanilla - Utrera."
+        "recorrido": "Utrera - Cañada Real de Venta Larga y Torres Alocaz - Cordel del Pico, Mesa y Arca del Agua (pista aviones) - Camino hacia finca El Pinganillo - Camino de Servicio AVE - Puente de Las Alcantarillas - Camino Lateral Canal Riego - Estación de Ferrocaril de Las Cabezas - _Marismillas (AVITUALLAMIENTO)_ - San Leandro - Vetaherrado - El Trobal - Maribañez - Banquetas Canal Bajo Guadalquivir - Camino Los Palacios - Bda. La Fontanilla - Utrera."
       }
     },
     {
@@ -362,7 +362,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera - Paseo de Consolación - Camino La Juncosa - Cordel del Prado del Gallego - Finca La Tenienta - Los Molares - Cortijo de Pardales - Cortijo Guardainfantilla - Ctra. A-375 - Cuesta de los Olivos - Vereda Las Mantecas - Cortijo de Los Algarves - Camino de Majalquivir - _**El Coronil (AVITUALLAMIENTO)**_ - Camino de Molares - Cortijo de Guardainfantilla - Cortijo de Pardales - Los Molares - La Tenienta - Camino del Junquillo - Utrera."
+        "recorrido": "Utrera - Paseo de Consolación - Camino La Juncosa - Cordel del Prado del Gallego - Finca La Tenienta - Los Molares - Cortijo de Pardales - Cortijo Guardainfantilla - Ctra. A-375 - Cuesta de los Olivos - Vereda Las Mantecas - Cortijo de Los Algarves - Camino de Majalquivir - _El Coronil (AVITUALLAMIENTO)_ - Camino de Molares - Cortijo de Guardainfantilla - Cortijo de Pardales - Los Molares - La Tenienta - Camino del Junquillo - Utrera."
       }
     },
     {
@@ -381,7 +381,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Camino de Servicio AVE - Las Alcantarillas - Trajano - Cortijo Torremarisma - Estación Ferrocarril de Las Cabezas - _**Las Cabezas (AVITUALLAMIENTO)**_ - Cortijo de Vercel - Cortijo de Gómez Cardeña - Rancho Villalba - Cordel de Zarracatín - Cortijo de Zarracatín - Laguna de Zarracatín - Cañada Real de Utrera a Villamartín - El Palmar de Troya - Puerta Verde - Cortijo La Higuera - Camino de Pinganillo - Pinganillo - Puerta Verde - Utrera."
+        "recorrido": "Utrera - Camino de Servicio AVE - Las Alcantarillas - Trajano - Cortijo Torremarisma - Estación Ferrocarril de Las Cabezas - _Las Cabezas (AVITUALLAMIENTO)_ - Cortijo de Vercel - Cortijo de Gómez Cardeña - Rancho Villalba - Cordel de Zarracatín - Cortijo de Zarracatín - Laguna de Zarracatín - Cañada Real de Utrera a Villamartín - El Palmar de Troya - Puerta Verde - Cortijo La Higuera - Camino de Pinganillo - Pinganillo - Puerta Verde - Utrera."
       }
     },
     {
@@ -457,7 +457,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Cañada Real del Pajarero - Cañada Real de Utrera a Morón - Los Molares - Camino de El Coronil a Los Molares - _**El Coronil (AVITUALLAMIENTO)**_ - Ctra. Morón/Montellano - Camino Las Lumbreras - Sierra San Pablo - Montellano - Venta El Salao - Cortijo Puerto Hatabo - Camino Real de Sevilla a Villamartín - Cortijo Las Glorias - Camino Las Glorias - El Coronil - Camino de El Coronil - Los Molares - Utrera."
+        "recorrido": "Utrera - Cañada Real del Pajarero - Cañada Real de Utrera a Morón - Los Molares - Camino de El Coronil a Los Molares - _El Coronil (AVITUALLAMIENTO)_ - Ctra. Morón/Montellano - Camino Las Lumbreras - Sierra San Pablo - Montellano - Venta El Salao - Cortijo Puerto Hatabo - Camino Real de Sevilla a Villamartín - Cortijo Las Glorias - Camino Las Glorias - El Coronil - Camino de El Coronil - Los Molares - Utrera."
       }
     },
     {
@@ -514,7 +514,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "assets/preloaded_data/routes/Bucare.gpx",
-        "recorrido": "Utrera - Camino Dos Hermanas - Ctra. Don Rodrigo - Cordel del Prado del Gallego - Camino Cuesta Carretilla - _**Alcalá de Guadaíra (AVITUALLAMIENTO)**_ - Puerta Verde Alcalá - Cortijo de Trujillo - Vereda de Benaglia - Vereda de Pastoril - Vereda del Martinazo - Vereda de los Puertos - Cruce Alcalá/Morón - Caserío San Francisco - Cortijo San Julián - Cordel del Prado del Gallego - Cañada Real del Pajarero - Utrera."
+        "recorrido": "Utrera - Camino Dos Hermanas - Ctra. Don Rodrigo - Cordel del Prado del Gallego - Camino Cuesta Carretilla - _Alcalá de Guadaíra (AVITUALLAMIENTO)_ - Puerta Verde Alcalá - Cortijo de Trujillo - Vereda de Benaglia - Vereda de Pastoril - Vereda del Martinazo - Vereda de los Puertos - Cruce Alcalá/Morón - Caserío San Francisco - Cortijo San Julián - Cordel del Prado del Gallego - Cañada Real del Pajarero - Utrera."
       }
     },
     {
@@ -609,7 +609,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Paseo de Consolación - Camino del Recuero - La Herradera - Cordel del Prado del Gallego - Cañada Real de Utrera a Los Palacios (ctra. Amarilla) - Vía de servicio Autovía Sevilla/Málaga - Vereda del Río Tinto - Vereda de Sevilla a Paradas - _**Paradas (AVITUALLAMIENTO)**_ - Camino a Arahal - Arahal - Vía Verde de Arahal (por el puente de hierro) - Camino Cortijo El Martinazo - Camino de El Coronil a Arahal - cruce con Vereda de Morón a Sevilla - Vereda de los Puertos (cruce ctra. Alcalá-Morón) - Caserío San Francisco - Cortijo San Julian - Camino de Arahal - Los Molares - Camino de Utrera - Utrera."
+        "recorrido": "Utrera - Paseo de Consolación - Camino del Recuero - La Herradera - Cordel del Prado del Gallego - Cañada Real de Utrera a Los Palacios (ctra. Amarilla) - Vía de servicio Autovía Sevilla/Málaga - Vereda del Río Tinto - Vereda de Sevilla a Paradas - _Paradas (AVITUALLAMIENTO)_ - Camino a Arahal - Arahal - Vía Verde de Arahal (por el puente de hierro) - Camino Cortijo El Martinazo - Camino de El Coronil a Arahal - cruce con Vereda de Morón a Sevilla - Vereda de los Puertos (cruce ctra. Alcalá-Morón) - Caserío San Francisco - Cortijo San Julian - Camino de Arahal - Los Molares - Camino de Utrera - Utrera."
       }
     },
     {
@@ -628,7 +628,7 @@
         "duracion": 0.0,
         "dificultad": "Alta",
         "track": "",
-        "recorrido": "Utrera - Cañada Real del Pajarero - Camino de Molares - Los Molares - Cañada Real de Morón a Sevilla - El Coronil - Camino Las Glorias - Cortijo Puerto Hatabo - Venta El Salado - Camino paralello ctra. Utrera-Montellano - Camino Los Toros - Arroyo del Salado - Cañada Real de Montellano a Morón (ctra.) - _**Venta Diego (AVITUALLAMIENTO)**_ - Cañada Real de Utrera a Villamartín (La Negra) - Camino paralelo Arroyo Salado - Abrevadero La Ventosilla - Rancho Las Latas - Cortijo El Pinganillo - Cañada Real de Venta Larga y Torres Alocaz - Utrera."
+        "recorrido": "Utrera - Cañada Real del Pajarero - Camino de Molares - Los Molares - Cañada Real de Morón a Sevilla - El Coronil - Camino Las Glorias - Cortijo Puerto Hatabo - Venta El Salado - Camino paralello ctra. Utrera-Montellano - Camino Los Toros - Arroyo del Salado - Cañada Real de Montellano a Morón (ctra.) - _Venta Diego (AVITUALLAMIENTO)_ - Cañada Real de Utrera a Villamartín (La Negra) - Camino paralelo Arroyo Salado - Abrevadero La Ventosilla - Rancho Las Latas - Cortijo El Pinganillo - Cañada Real de Venta Larga y Torres Alocaz - Utrera."
       }
     },
     {
@@ -647,7 +647,7 @@
         "duracion": 0.0,
         "dificultad": "Alta",
         "track": "",
-        "recorrido": "Utrera - La Fontanilla - Camino Pinar de Doña - Hacienda La Indiana - Camino Vecinal de Don Rodrigo - Camino paralelo N-IV - Ctra. La Isla - Parque La Corchuela - Puente sobre el río Guadaira - Venta Tobalina - _**Coria del Río (AVITUALLAMIENTO)**_ - Gelves - San Juan de Aznalfarache - Los Remedios - Avda. La Palmera - Ronda del Tamarguillo - Avda. La Paz - Universidad Pablo de Olavide - Montequinto - Vía servicio autovía Utrera-Sevilla - Utrera."
+        "recorrido": "Utrera - La Fontanilla - Camino Pinar de Doña - Hacienda La Indiana - Camino Vecinal de Don Rodrigo - Camino paralelo N-IV - Ctra. La Isla - Parque La Corchuela - Puente sobre el río Guadaira - Venta Tobalina - _Coria del Río (AVITUALLAMIENTO)_ - Gelves - San Juan de Aznalfarache - Los Remedios - Avda. La Palmera - Ronda del Tamarguillo - Avda. La Paz - Universidad Pablo de Olavide - Montequinto - Vía servicio autovía Utrera-Sevilla - Utrera."
       }
     },
     {
@@ -666,7 +666,7 @@
         "duracion": 0.0,
         "dificultad": "Alta",
         "track": "",
-        "recorrido": "Utrera - Camino paralelo Via del AVE - Las Alcantarillas - Trajano - _**El Trobal (AVITUALLAMIENTO)**_ - Llanos de San Juan - Ctra. del Práctico - Camino paralelo Madre Vieja Brazo del Este del Guadalquivir - Caño de la Vera - Los Palacios - Ctra. Don Rodrigo - Camion de Dos Hermanas - Utrera."
+        "recorrido": "Utrera - Camino paralelo Via del AVE - Las Alcantarillas - Trajano - _El Trobal (AVITUALLAMIENTO)_ - Llanos de San Juan - Ctra. del Práctico - Camino paralelo Madre Vieja Brazo del Este del Guadalquivir - Caño de la Vera - Los Palacios - Ctra. Don Rodrigo - Camion de Dos Hermanas - Utrera."
       }
     },
     {
@@ -704,7 +704,7 @@
         "duracion": 0.0,
         "dificultad": "Alta",
         "track": "",
-        "recorrido": "Utrera - Ctra. Amarilla - Camino de Alba - Cortijo La Armada - Descansadero de Trujillo - Castillo de Marchenilla - Ciudad San Juan de Dios - Antigua Estación de Gandul - Antigua Vía Alcalá-Carmona - _**Carmona (AVITUALLAMIENTO)**_ - Ctra. Amarilla - Utrera."
+        "recorrido": "Utrera - Ctra. Amarilla - Camino de Alba - Cortijo La Armada - Descansadero de Trujillo - Castillo de Marchenilla - Ciudad San Juan de Dios - Antigua Estación de Gandul - Antigua Vía Alcalá-Carmona - _Carmona (AVITUALLAMIENTO)_ - Ctra. Amarilla - Utrera."
       }
     },
     {
@@ -723,7 +723,7 @@
         "duracion": 0.0,
         "dificultad": "Alta",
         "track": "",
-        "recorrido": "Utrera - Cementerio - Vereda de Dos Hermanas - Camino Vecinal de Don Rodrigo - Camino paralelo ctra. N-IV - Carril Bici Vereda del Arrecife - Parche La Corchuela - Dehesa de La Atalaya - _**Urb. La Hermandad (AVITUALLAMIENTO)**_ - Cir. del Polvero - Nuevo cáuce del Guadaíra - Urb. Fuente del Rey - Bellavista - Urb. Montequito - Camino Paralelo Autovía Sevilla-Utrera - Utrera."
+        "recorrido": "Utrera - Cementerio - Vereda de Dos Hermanas - Camino Vecinal de Don Rodrigo - Camino paralelo ctra. N-IV - Carril Bici Vereda del Arrecife - Parche La Corchuela - Dehesa de La Atalaya - _Urb. La Hermandad (AVITUALLAMIENTO)_ - Cir. del Polvero - Nuevo cáuce del Guadaíra - Urb. Fuente del Rey - Bellavista - Urb. Montequito - Camino Paralelo Autovía Sevilla-Utrera - Utrera."
       }
     },
     {
