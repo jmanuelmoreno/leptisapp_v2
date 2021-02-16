@@ -400,7 +400,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Cañada Real del Pajarero - Cañada Real de Utrera a Morón - Los Molares - Cortijo Pardales - Cortijo Guardainfantilla - El Coronil (AVITUALLAMIENTO) - Ctra. Las Alcabalas - Ctra. Morón/Montellano - Camino Las Lumbreras - Camino Hacienda del Gato - Sierra de San Pablo - Montellano - Venta El Salado - Cortijo Puerta Hatabo - Cañada Real de Sevilla a Villamartín- Camino Las Glorias - El Coronil - Camino de El Coronil a Molares - Camino Cañada Real de Utrera a Morón - Utrera."
+        "recorrido": "Utrera - Cañada Real del Pajarero - Cañada Real de Utrera a Morón - Los Molares - Cortijo Pardales - Cortijo Guardainfantilla - El Coronil (AVITUALLAMIENTO) - Ctra. Las Alcabalas - Ctra. Morón-Montellano - Camino Las Lumbreras - Camino Hacienda del Gato - Sierra de San Pablo - Montellano - Venta El Salado - Cortijo Puerta Hatabo - Cañada Real de Sevilla a Villamartín- Camino Las Glorias - El Coronil - Camino de El Coronil a Molares - Camino Cañada Real de Utrera a Morón - Utrera."
       }
     },
     {
@@ -457,7 +457,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Cañada Real del Pajarero - Cañada Real de Utrera a Morón - Los Molares - Camino de El Coronil a Los Molares - _El Coronil (AVITUALLAMIENTO)_ - Ctra. Morón/Montellano - Camino Las Lumbreras - Sierra San Pablo - Montellano - Venta El Salao - Cortijo Puerto Hatabo - Camino Real de Sevilla a Villamartín - Cortijo Las Glorias - Camino Las Glorias - El Coronil - Camino de El Coronil - Los Molares - Utrera."
+        "recorrido": "Utrera - Cañada Real del Pajarero - Cañada Real de Utrera a Morón - Los Molares - Camino de El Coronil a Los Molares - _El Coronil (AVITUALLAMIENTO)_ - Ctra. Morón-Montellano - Camino Las Lumbreras - Sierra San Pablo - Montellano - Venta El Salao - Cortijo Puerto Hatabo - Camino Real de Sevilla a Villamartín - Cortijo Las Glorias - Camino Las Glorias - El Coronil - Camino de El Coronil - Los Molares - Utrera."
       }
     },
     {
@@ -514,7 +514,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "assets/preloaded_data/routes/Bucare.gpx",
-        "recorrido": "Utrera - Camino Dos Hermanas - Ctra. Don Rodrigo - Cordel del Prado del Gallego - Camino Cuesta Carretilla - _Alcalá de Guadaíra (AVITUALLAMIENTO)_ - Puerta Verde Alcalá - Cortijo de Trujillo - Vereda de Benaglia - Vereda de Pastoril - Vereda del Martinazo - Vereda de los Puertos - Cruce Alcalá/Morón - Caserío San Francisco - Cortijo San Julián - Cordel del Prado del Gallego - Cañada Real del Pajarero - Utrera."
+        "recorrido": "Utrera - Camino Dos Hermanas - Ctra. Don Rodrigo - Cordel del Prado del Gallego - Camino Cuesta Carretilla - _Alcalá de Guadaíra (AVITUALLAMIENTO)_ - Puerta Verde Alcalá - Cortijo de Trujillo - Vereda de Benaglia - Vereda de Pastoril - Vereda del Martinazo - Vereda de los Puertos - Cruce Alcalá-Morón - Caserío San Francisco - Cortijo San Julián - Cordel del Prado del Gallego - Cañada Real del Pajarero - Utrera."
       }
     },
     {
@@ -571,7 +571,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Paseo de Consolación - Camino del Recuero - Ctra. Amarilla - Vereda de Machamorón - Cordel del Prado del Gallego - Cortijo La Armada - Castillo Marchenilla - Alcalá de Guadaira (AVITUALLAMIENTO) - Parque de Oromana - Puente del Dragón - Sendero Río Guadaira - Puente SE-40 - Urbanización Sevilla Golf - Corredor Verde Alcalá/Pablo de Olavide - Subida Castillo Alcalá - Camino Cuesta Carretilla - Camino Casabanca - Utrera."
+        "recorrido": "Utrera - Paseo de Consolación - Camino del Recuero - Ctra. Amarilla - Vereda de Machamorón - Cordel del Prado del Gallego - Cortijo La Armada - Castillo Marchenilla - Alcalá de Guadaira (AVITUALLAMIENTO) - Parque de Oromana - Puente del Dragón - Sendero Río Guadaira - Puente SE-40 - Urbanización Sevilla Golf - Corredor Verde Alcalá-Pablo de Olavide - Subida Castillo Alcalá - Camino Cuesta Carretilla - Camino Casabanca - Utrera."
       }
     },
     {
@@ -590,7 +590,7 @@
         "duracion": 0.0,
         "dificultad": "Alta",
         "track": "",
-        "recorrido": "Utrera - Cañada Real del Pajarero - Los Molares - Cortijo San Julián - Caserío San Francisco (cruce ctra. Alcalá-Morón) - Vereda de los Puertos - Vereda de Morón a Sevilla - Morón de la Frontera (AVITUALLAMIENTO) - Ctra. Morón/Montellano - Camino Las Caleras de la Sierra - Camino Las Alcabalas - El Coronil - Camino El Coronil/Los Molares - Los Molares - Camino de Los Molares - Utrera."
+        "recorrido": "Utrera - Cañada Real del Pajarero - Los Molares - Cortijo San Julián - Caserío San Francisco (cruce ctra. Alcalá-Morón) - Vereda de los Puertos - Vereda de Morón a Sevilla - Morón de la Frontera (AVITUALLAMIENTO) - Ctra. Morón-Montellano - Camino Las Caleras de la Sierra - Camino Las Alcabalas - El Coronil - Camino El Coronil-Los Molares - Los Molares - Camino de Los Molares - Utrera."
       }
     },
     {
@@ -609,7 +609,7 @@
         "duracion": 0.0,
         "dificultad": "Media",
         "track": "",
-        "recorrido": "Utrera - Paseo de Consolación - Camino del Recuero - La Herradera - Cordel del Prado del Gallego - Cañada Real de Utrera a Los Palacios (ctra. Amarilla) - Vía de servicio Autovía Sevilla/Málaga - Vereda del Río Tinto - Vereda de Sevilla a Paradas - _Paradas (AVITUALLAMIENTO)_ - Camino a Arahal - Arahal - Vía Verde de Arahal (por el puente de hierro) - Camino Cortijo El Martinazo - Camino de El Coronil a Arahal - cruce con Vereda de Morón a Sevilla - Vereda de los Puertos (cruce ctra. Alcalá-Morón) - Caserío San Francisco - Cortijo San Julian - Camino de Arahal - Los Molares - Camino de Utrera - Utrera."
+        "recorrido": "Utrera - Paseo de Consolación - Camino del Recuero - La Herradera - Cordel del Prado del Gallego - Cañada Real de Utrera a Los Palacios (ctra. Amarilla) - Vía de servicio Autovía Sevilla-Málaga - Vereda del Río Tinto - Vereda de Sevilla a Paradas - _Paradas (AVITUALLAMIENTO)_ - Camino a Arahal - Arahal - Vía Verde de Arahal (por el puente de hierro) - Camino Cortijo El Martinazo - Camino de El Coronil a Arahal - cruce con Vereda de Morón a Sevilla - Vereda de los Puertos (cruce ctra. Alcalá-Morón) - Caserío San Francisco - Cortijo San Julian - Camino de Arahal - Los Molares - Camino de Utrera - Utrera."
       }
     },
     {
