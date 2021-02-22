@@ -20,7 +20,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera, Via de servicio carretera de Sevilla, Camino Don Rodrigo, Nacional IV, Carretera La Isla, _**Los Palacios (AVITUALLAMIENTO)**_, Ctra. Nacional IV, El Torbiscal, Guadalema de los Quintero, El Palmar de Troya, Utrera"
+        "recorrido": "Utrera, Via de servicio carretera de Sevilla, Camino Don Rodrigo, Nacional IV, Carretera La Isla, _Los Palacios (AVITUALLAMIENTO)_, Ctra. Nacional IV, El Torbiscal, Guadalema de los Quintero, El Palmar de Troya, Utrera"
       }
     },
     {
@@ -39,7 +39,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera, Camino Paralelo Via AVE, Trajano, _**Las Cabezas (AVITUALLAMIENTO)**_, Vetaherrado, Maribañez, Los Palacios, Utrera"
+        "recorrido": "Utrera, Camino Paralelo Via AVE, Trajano, _Las Cabezas (AVITUALLAMIENTO)_, Vetaherrado, Maribañez, Los Palacios, Utrera"
       }
     },
     {
@@ -58,7 +58,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera, Los Molares, Ctra. Palomo, Ctra. Morón, _**Venta Campanita (AVITUALLAMIENTO)**_, Ctra. Morón-El Coronil, El Coronil, Ctra. El Coronil-Molares, Cortijo de Palomo, Los Molares, Utrera"
+        "recorrido": "Utrera, Los Molares, Ctra. Palomo, Ctra. Morón, _Venta Campanita (AVITUALLAMIENTO)_, Ctra. Morón-El Coronil, El Coronil, Ctra. El Coronil-Molares, Cortijo de Palomo, Los Molares, Utrera"
       }
     },
     {
@@ -77,7 +77,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera, Ctra. El Palmar, Pantano Torre del Aguila, Ctra. La Negra, _**Venta Diego (AVITUALLAMIENTO)**_, Ctra. La Negra, Pantano Torre del Aguila, El Palmar, Guadalema de los Quintero, El Torbiscal, Carretera de Las Alcantarillas, Utrera"
+        "recorrido": "Utrera, Ctra. El Palmar, Pantano Torre del Aguila, Ctra. La Negra, _Venta Diego (AVITUALLAMIENTO)_, Ctra. La Negra, Pantano Torre del Aguila, El Palmar, Guadalema de los Quintero, El Torbiscal, Carretera de Las Alcantarillas, Utrera"
       }
     },
     {
@@ -96,7 +96,7 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera, Los Molares, Ctra. Palomo, Ctra. Alcala-Morón, _**El Coronil (AVITUALLAMIENTO)**_, Ctra. Morón-El Coronil, Ctra. Morón-Montellano, Ctra. Montellano-Las Cabezas, La Negra, El Palmar de Troya, Utrera"
+        "recorrido": "Utrera, Los Molares, Ctra. Palomo, Ctra. Alcala-Morón, _El Coronil (AVITUALLAMIENTO)_, Ctra. Morón-El Coronil, Ctra. Morón-Montellano, Ctra. Montellano-Las Cabezas, La Negra, El Palmar de Troya, Utrera"
       }
     },
     {
@@ -115,9 +115,8 @@
         "duracion": 0.0,
         "dificultad": "Baja",
         "track": "",
-        "recorrido": "Utrera, Ctra. Amarilla, Vereda Benavegile, _**Alcalá de Guadaira (AVITUALLAMIENTO)**_, Carretera Dos Hermanas, Camino de servicio Carretera Utrera/Sevilla, Utrera"
+        "recorrido": "Utrera, Ctra. Amarilla, Vereda Benavegile, _Alcalá de Guadaira (AVITUALLAMIENTO)_, Carretera Dos Hermanas, Camino de servicio Carretera Utrera/Sevilla, Utrera"
       }
     }
   ]
 }
-
